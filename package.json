@@ -9,9 +9,9 @@
   ],
   "homepage": "https://github.com/KaishiNava/FranxBail",
   "repository": {
-  "type": "git",
-  "url": "git+https://github.com/KaishiNava/FranxBail.git"
-},
+    "type": "git",
+    "url": "git+https://github.com/KaishiNava/FranxBail.git"
+  },
   "license": "MIT",
   "author": "Rajeh Taher",
   "main": "lib/index.js",

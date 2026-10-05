@@ -1,4 +1,4 @@
-<h1><img alt="Baileys logo" src="https://raw.githubusercontent.com/WhiskeySockets/Baileys/refs/heads/master/Media/logo.png" height="75"/></h1>
+<h1><img alt="FranxBail logo" src="https://raw.githubusercontent.com/WhiskeySockets/Baileys/refs/heads/master/Media/logo.png" height="75"/></h1>
 
 
 > [!CAUTION]
@@ -8,7 +8,7 @@
 >
 > Please check out https://whiskey.so/migrate-latest for more information.
 
-Baileys is a WebSockets-based TypeScript library for interacting with the WhatsApp Web API.
+FranxBail is a WebSockets-based TypeScript library for interacting with the WhatsApp Web API, based on Baileys.
 
 Join the WhiskeySockets community via the link: https://whiskey.so/discord
 
