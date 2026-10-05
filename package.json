@@ -1,16 +1,17 @@
 {
-  "name": "baileys",
+  "name": "franxbail",
   "type": "module",
-  "version": "7.0.0-rc14",
-  "description": "A WebSockets library for interacting with WhatsApp Web",
+  "version": "7.0.0-franxx.1",
+  "description": "FranxBail — WhatsApp Web library based on Baileys",
   "keywords": [
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys/",
+  "homepage": "https://github.com/KaishiNava/FranxBail",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
-  },
+  "type": "git",
+  "url": "git+https://github.com/KaishiNava/FranxBail.git"
+},
   "license": "MIT",
   "author": "Rajeh Taher",
   "main": "lib/index.js",
